@@ -1,0 +1,23 @@
+Sports2000 schema summary from dump/sports2000.df (Step-16).
+
+Customer
+- CustNum INTEGER, primary unique index
+- Name CHARACTER
+- Address CHARACTER
+- Address2 CHARACTER
+- City CHARACTER
+- State CHARACTER
+- Country CHARACTER
+- PostalCode CHARACTER
+- Phone CHARACTER
+- Contact CHARACTER
+- SalesRep CHARACTER
+- Comments CHARACTER
+- CreditLimit DECIMAL
+- Balance DECIMAL
+- Terms CHARACTER
+- Discount INTEGER
+- Fax CHARACTER
+- EmailAddress CHARACTER
+
+The complete database dump is intentionally excluded from this summary file per the repository workflow; the source project uses dump/sports2000.df.
